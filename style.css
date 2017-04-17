@@ -1,0 +1,22 @@
+body{
+font-family: sans-serif;
+}
+h1{
+text-align: center;
+}
+#body_container{
+font-size: 80px;
+color: blue;
+text-align: center;
+vertical-align: middle;
+line-height: 400px;
+}
+#bottom_container{
+position: fixed;
+bottom: 10;
+width: 100%;
+}
+#copyright{
+text-align: right;
+margin: 10px 20px;
+}
